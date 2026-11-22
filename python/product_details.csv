@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock
+101,Camera,Electronics,150,50
+102,Charger,Accessories,40,500
+103,Monitor,Electronics,500,100
+104,Headphones,Electronics,200,100
+105,Speaker,Accessories,40,300
+106,Smartphone,Electronics,one hundred,500
+107,Tablet,Accessories,150,500
+108,Laptop,Electronics,one hundred,150
+109,Mouse,Electronics,25,300
+110,Keyboard,Electronics,fifty,300
