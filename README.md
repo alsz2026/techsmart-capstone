@@ -39,8 +39,8 @@ The project includes:
 
 ### Project Documentation
 
-- [Final Report – PDF](report/techsmart_capstone_report.pdf)
-- [Final Report – MS Word](report/techsmart_capstone_report.docx)
+- [Final Report – PDF](documentation/techsmart_capstone_report.pdf)
+- [Final Report – MS Word](documentation/techsmart_capstone_report.docx)
 
 ### Presentation
 
